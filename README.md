@@ -8,6 +8,10 @@ NOTE: Using Widevine requires glibc version 2.36 or later. Arch Linux ARM ships
 an ancient glibc version, and will not work at this time. Most other distros
 (even Debian stable) should be OK.
 
+# Note
+
+After the widevine installation, in order to use Netflix you need to use a browser with an aarch64 [ChromeOS user agent](https://www.whatismybrowser.com/guides/the-latest-user-agent/chrome-os)
+
 # Credits
 
 Original fixup script by [@DavidBuchanan314](https://github.com/DavidBuchanan314):
